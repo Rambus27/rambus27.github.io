@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(custombase.png);
+    background: url(https://raw.githubusercontent.com/USERNAME/REPO/main/ortxcontroller1/custombase.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -275,5 +275,6 @@ background-position: 0 -70px;
 .ds4.half {
     margin-top: -300px;
 }
+
 
 /*END PS4 Controller Styling*/
